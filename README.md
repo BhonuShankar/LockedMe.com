@@ -34,7 +34,7 @@ The details of the user interface are shown to the user. The user has to select 
 	
 ## Technologies
 Project is created with:
-* Java 8
+* Java 16
 * Eclipse IDE
 
 	
