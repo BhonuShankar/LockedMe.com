@@ -3,4 +3,8 @@
 
 [GITHUB REPOSITORY LINK : https://github.com/BhonuShankar/LockedMe.com/tree/master](https://github.com/BhonuShankar/LockedMe.com/tree/master)
 
-TABLE OF CONTENTS:
+##Information:
+
+A simple file handling project in Java.
+
+
